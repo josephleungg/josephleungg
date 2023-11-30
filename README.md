@@ -1,6 +1,8 @@
 ![banner for github](https://github.com/josephleungg/josephleungg/assets/98608136/bc16e317-7491-4657-a5c5-7beca2ba4cbd)
 
-### Hi there 👋 I'm currently a Computer Science student at TMU (a.k.a Ryerson University). Keep reading to find out a little bit more about me 👇
+### Hi there 👋 I'm currently a Computer Science student at TMU (a.k.a Ryerson University). 
+
+A little bit more about me 👇
 
 - 🔭 I am always working on:
   <br>
@@ -9,6 +11,7 @@
   → building new connections 🔗
   <br>
   → my sleep schedule 💤
+  
 - 🌱 I’m currently learning a few languages and frameworks
   <br>
   → **React**
@@ -16,4 +19,15 @@
   → **C++**
   <br>
   → **& more**
+  
+- 🖥️ What I do on my off time
+  <br>
+  → explore new business opportunities 📥
+  <br>
+  → play video games 🎮
+  <br>
+  → working out 🏋️
+  <br>
+  → watch shows & anime 📺
+
 - 📃 Feel free to contact me on [**LinkedIn**](https://www.linkedin.com/in/josephleung1/) or email me at (leung.joseph@outlook.com)
