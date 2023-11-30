@@ -18,6 +18,7 @@ A little bit more about me 👇
   <br>
   → **C++**
   <br>
+  → **lisp**
   → **& more**
   
 - 🖥️ What I do on my off time
