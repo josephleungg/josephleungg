@@ -32,6 +32,6 @@ A little bit more about me 👇
   <br>
   → watch shows & anime 📺
 
-- Check out my portfolio website [**here**](https://josephleungg.github.io/) to learn more about me!
+- 🌐 Check out my portfolio website [**here**](https://josephleungg.github.io/) to learn more about me!
 
 - 📃 Feel free to contact me on [**LinkedIn**](https://www.linkedin.com/in/josephleung1/) or email me at (leung.joseph@outlook.com)
