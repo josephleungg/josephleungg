@@ -28,7 +28,7 @@ A little bit more about me 👇
   <br>
   → play video games 🎮
   <br>
-  → working out 🏋️
+  → work out 🏋️
   <br>
   → watch shows & anime 📺
 
