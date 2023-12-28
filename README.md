@@ -18,7 +18,7 @@ A little bit more about me 👇
   <br>
   → **C++**
   <br>
-  → **lisp**
+  → **Firebase**
   <br>
   → **& more**
   
