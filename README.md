@@ -14,7 +14,7 @@ A little bit more about me 👇
   
 - 🌱 I’m currently learning a few languages and frameworks
   <br>
-  → **React**
+  → **NodeJS**
   <br>
   → **C++**
   <br>
