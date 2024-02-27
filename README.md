@@ -14,9 +14,9 @@ A little bit more about me 👇
   
 - 🌱 I’m currently learning a few languages and frameworks
   <br>
-  → **NodeJS**
+  → **NextJS**
   <br>
-  → **C++**
+  → **ExpressJS**
   <br>
   → **Firebase**
   <br>
