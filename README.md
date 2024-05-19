@@ -16,7 +16,7 @@ A little bit more about me 👇
   <br>
   → **NextJS**
   <br>
-  → **ExpressJS**
+  → **C#**
   <br>
   → **Firebase**
   <br>
