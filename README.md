@@ -14,11 +14,11 @@ A little bit more about me 👇
   
 - 🌱 I’m currently learning a few languages and frameworks
   <br>
-  → **NextJS**
+  → **Machine Learning (Tensorflow)**
   <br>
-  → **C#**
+  → **MongoDB**
   <br>
-  → **Firebase**
+  → **Mobile Development (flutter)**
   <br>
   → **& more**
   
