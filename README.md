@@ -6,7 +6,7 @@ A little bit more about me 👇
 
 - 🔭 I am always working on:
   <br>
-  → personal projects [*(portfolio)*](https://josephleungg.github.io/) 📄
+  → personal projects [*(portfolio)*](https://www.josephleung.tech/) 📄
   <br>
   → building new connections 🔗
   <br>
